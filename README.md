@@ -9,23 +9,27 @@ This project is my journey learning Go, following a structured 4-week learning p
 ## Development Roadmap
 
 ### Week 1: CLI Tool
+
 - Basic URL shortening functionality
 - Local JSON storage
 - Command-line interface
 
 ### Week 2: Web Application
+
 - HTTP server implementation
 - Simple web interface
 - Concurrent request handling
 - Basic rate limiting
 
 ### Week 3: Enhanced Features
+
 - SQLite database integration
 - Click analytics
 - Custom URL support
 - Comprehensive testing
 
 ### Week 4: Production Features
+
 - User accounts and authentication
 - Dockerized deployment
 - Logging and monitoring
@@ -45,11 +49,18 @@ _Coming soon as project develops_
 
 ## Usage
 
-_Coming soon as project develops_
+Run
+
+```
+go run .
+```
+
+in order to run the project.
 
 ## Learning Resources
 
 This project follows resources from:
+
 - [Tour of Go](https://go.dev/tour/)
 - [Go by Example](https://gobyexample.com/)
 - [Effective Go](https://go.dev/doc/effective_go)
@@ -70,4 +81,4 @@ This project structure is based on a learning plan created to systematically exp
 
 ---
 
-*This README will be updated as the project evolves*
+_This README will be updated as the project evolves_
